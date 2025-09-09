@@ -12,10 +12,9 @@
 - **Apache Kafka** for real-time data pipelines.  
 - Advanced **cloud-native patterns** (AWS/GCP).  
 
-### 💞️ Collaboration Goals  
+### 💞️ Collaboration Goals
 - Open-source fintech tools (e.g., payment gateways, ledger systems).  
 - Scalability workshops or hackathons.  
-- Research on **DeFi** or **regulatory tech (RegTech)**.
 
 ### Connect with me:
 - lenhnv1305@gmail.com
